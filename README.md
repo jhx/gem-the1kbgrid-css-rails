@@ -30,8 +30,10 @@ $ gem install the1kbgrid-css-rails
 Add these lines to `app/assets/stylesheets/application.css`
 
 ```css
+/*
 provides The 1Kb Grid CSS from gem 'the1kbgrid-css-rails':
 = require the1kbgrid-css-rails
+*/
 ```
 
 Use one or more of the following `div` classes:
