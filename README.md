@@ -8,23 +8,31 @@ Provides The 1Kb Grid CSS for the Rails 3.1+ asset pipeline.
 
 Add these lines to your application's Gemfile:
 
-    # the 1kb grid css packaged for the rails asset pipeline
-    gem 'the1kbgrid-css-rails', '~> 1.0'
+```rb
+# the 1kb grid css packaged for the rails asset pipeline
+gem 'the1kbgrid-css-rails', '~> 1.0'
+```
 
 And then execute:
 
-    $ bundle
+```sh
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install the1kbgrid-css-rails
+```sh
+$ gem install the1kbgrid-css-rails
+```
 
 ## Usage
 
 Add these lines to `app/assets/stylesheets/application.css`
 
-    provides The 1Kb Grid CSS from gem 'the1kbgrid-css-rails':
-    = require the1kbgrid-css-rails
+```css
+provides The 1Kb Grid CSS from gem 'the1kbgrid-css-rails':
+= require the1kbgrid-css-rails
+```
 
 ## Contributing
 
