@@ -1,6 +1,6 @@
 # the1kbgrid-css-rails [![Gem Version](https://badge.fury.io/rb/the1kbgrid-css-rails.png)](http://badge.fury.io/rb/the1kbgrid-css-rails)
 
-> Created by Doc Walker
+> Gemified by Doc Walker
 
 Provides The 1Kb Grid CSS for the Rails 3.1+ asset pipeline.
 
