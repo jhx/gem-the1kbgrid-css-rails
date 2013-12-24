@@ -15,7 +15,7 @@ Add these lines to your application's `Gemfile`:
 
 ```rb
 # the 1kb grid css packaged for the rails asset pipeline
-gem 'the1kbgrid-css-rails', '~> 1.1.0'
+gem 'the1kbgrid-css-rails', '~> 1.1.1'
 ```
 
 And then execute:
