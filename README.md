@@ -1,4 +1,6 @@
-# the1kbgrid-css-rails [![Gem Version](https://badge.fury.io/rb/the1kbgrid-css-rails.png)](http://badge.fury.io/rb/the1kbgrid-css-rails)
+# the1kbgrid-css-rails
+[![Gem Version](https://badge.fury.io/rb/the1kbgrid-css-rails.png)](http://badge.fury.io/rb/the1kbgrid-css-rails)
+[![Build Status](https://travis-ci.org/jhx/gem-the1kbgrid-css-rails.png?branch=master)](https://travis-ci.org/jhx/gem-the1kbgrid-css-rails)
 
 > Gemified by Doc Walker
 
