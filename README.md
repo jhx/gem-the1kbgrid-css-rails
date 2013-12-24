@@ -1,6 +1,9 @@
 # the1kbgrid-css-rails
 [![Gem Version](https://badge.fury.io/rb/the1kbgrid-css-rails.png)](http://badge.fury.io/rb/the1kbgrid-css-rails)
 [![Build Status](https://travis-ci.org/jhx/gem-the1kbgrid-css-rails.png?branch=master)](https://travis-ci.org/jhx/gem-the1kbgrid-css-rails)
+[![Dependency Status](https://gemnasium.com/jhx/gem-the1kbgrid-css-rails.png)](https://gemnasium.com/jhx/gem-the1kbgrid-css-rails)
+[![Code Climate](https://codeclimate.com/github/jhx/gem-the1kbgrid-css-rails.png)](https://codeclimate.com/github/jhx/gem-the1kbgrid-css-rails)
+[![Coverage Status](https://coveralls.io/repos/jhx/gem-the1kbgrid-css-rails/badge.png)](https://coveralls.io/r/jhx/gem-the1kbgrid-css-rails)
 
 > Gemified by Doc Walker
 
