@@ -8,8 +8,10 @@ Gem::Specification.new do |spec|
   spec.version       = The1kbgridCss::Rails::VERSION
   spec.authors       = ['Doc Walker']
   spec.email         = ['doc.walker@jameshardie.com']
-  spec.description   = %q{Provides The 1Kb Grid CSS for the Rails 3.1+ asset pipeline.}
-  spec.summary       = %q{Provides The 1Kb Grid CSS for the Rails 3.1+ asset pipeline.}
+  spec.description   = 'Provides The 1Kb Grid CSS for the Rails 3.1+ ' \
+                       'asset pipeline.'
+  spec.summary       = 'Provides The 1Kb Grid CSS for the Rails 3.1+ ' \
+                       'asset pipeline.'
   spec.homepage      = 'https://github.com/jhx/gem-the1kbgrid-css-rails'
   spec.license       = 'MIT'
 
