@@ -4,6 +4,9 @@ CHANGELOG
 TBD
 ------------------
 
+- `NEW` - add ruby lint checks (via rubocop), fix flagged items | [#16][]
+- `IMPROVE` - update `semantic` gem version | [#14][]
+- `NEW` - add [CHANGELOG](CHANGELOG.md) | [#12][]
 - `IMPROVE` - update `railties` gem dependency | [#10][]
 
 
@@ -42,3 +45,6 @@ Legend
 [#7]: https://github.com/jhx/gem-the1kbgrid-css-rails/issues/7
 [#8]: https://github.com/jhx/gem-the1kbgrid-css-rails/issues/8
 [#10]: https://github.com/jhx/gem-the1kbgrid-css-rails/issues/10
+[#12]: https://github.com/jhx/gem-the1kbgrid-css-rails/issues/12
+[#14]: https://github.com/jhx/gem-the1kbgrid-css-rails/issues/14
+[#16]: https://github.com/jhx/gem-the1kbgrid-css-rails/issues/16
