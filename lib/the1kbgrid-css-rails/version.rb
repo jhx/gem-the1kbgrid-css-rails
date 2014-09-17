@@ -2,6 +2,10 @@
 module The1kbgridCss
   module Rails
     # Refer to Semantic Versioning 2.0.0 (http://semver.org).
-    VERSION = '1.1.2'
+    MAJOR = 1
+    MINOR = 1
+    PATCH = 2
+    BUILD = nil
+    VERSION = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
   end
 end
