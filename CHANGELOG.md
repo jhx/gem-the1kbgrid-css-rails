@@ -1,5 +1,16 @@
-CHANGELOG
-=========
+1.1.3 / 2014-11-17
+------------------
+
+- `NEW` - Add changelog rake task | [view](https://github.com/jhx/gem-the1kbgrid-css-rails/commit/0f149a9)
+- `NEW` - Add CONTRIBUTING.md | [view](https://github.com/jhx/gem-the1kbgrid-css-rails/commit/3ba82ed)
+- `IMPROVE` - Configure rspec to use expect syntax | [view](https://github.com/jhx/gem-the1kbgrid-css-rails/commit/bacc76c)
+- `IMPROVE` - Update development gems | [view](https://github.com/jhx/gem-the1kbgrid-css-rails/commit/e3167b9)
+- `IMPROVE` - Update rubocop gem | [view](https://github.com/jhx/gem-the1kbgrid-css-rails/commit/cc9fe2f)
+- `IMPROVE` - Add MAJOR, MINOR, PATCH to version.rb | [view](https://github.com/jhx/gem-the1kbgrid-css-rails/commit/4e9a99d)
+- `IMPROVE` - Update to ruby-2.1.2 | [view](https://github.com/jhx/gem-the1kbgrid-css-rails/commit/9365e4b)
+- `FIX` - Disable FileName cop | [view](https://github.com/jhx/gem-the1kbgrid-css-rails/commit/e06da10)
+- `IMPROVE` - Update rubocop gem to v0.19.0 | [view](https://github.com/jhx/gem-the1kbgrid-css-rails/commit/c8c3107)
+
 
 1.1.2 / 2014-02-18
 ------------------
