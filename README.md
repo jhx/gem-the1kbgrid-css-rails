@@ -1,11 +1,11 @@
 # the1kbgrid-css-rails
-[![Gem](http://img.shields.io/gem/v/tablecloth-rails.svg?style=flat)][gem]
+[![Gem](http://img.shields.io/gem/v/the1kbgrid-css-rails.svg?style=flat)][gem]
 [![Travis](https://img.shields.io/travis/jhx/gem-the1kbgrid-css-rails.svg?style=flat)][travis]
 [![Gemnasium](http://img.shields.io/gemnasium/jhx/gem-the1kbgrid-css-rails.svg?style=flat)][gemnasium]
 [![Code Climate](http://img.shields.io/codeclimate/github/jhx/gem-the1kbgrid-css-rails.svg?style=flat)][code climate]
 [![Coveralls](http://img.shields.io/coveralls/jhx/gem-the1kbgrid-css-rails.svg?style=flat)][coveralls]
 
-[gem]:          https://rubygems.org/gems/tablecloth-rails
+[gem]:          https://rubygems.org/gems/the1kbgrid-css-rails
 [travis]:       https://travis-ci.org/jhx/gem-the1kbgrid-css-rails
 [gemnasium]:    https://gemnasium.com/jhx/gem-the1kbgrid-css-rails
 [code climate]: https://codeclimate.com/github/jhx/gem-the1kbgrid-css-rails
